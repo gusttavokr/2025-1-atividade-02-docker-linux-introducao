@@ -1,8 +1,3 @@
-Cabeçalho: título da atividade, nome, data
-Introdução: objetivo do exercício
-Relato: descreva as suas atividades e mostre os resultados com as imagens capturadas
-Conclusão: O que aprendeu? Dificuldades?
-
 # Relatório de Introdução ao Linux usando Docker no Windows
 Nome: Gustavo Maia Militão
 Data: 09/05/2025
